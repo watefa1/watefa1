@@ -4,7 +4,7 @@
 
 **Turning ideas into functional software.**
 
-I'm a Full Stack Developer from Buenos Aires, Argentina, with nearly 4 years of professional experience building and maintaining web applications, REST APIs and database-driven systems.
+I'm a Full Stack Developer from Buenos Aires, Argentina, with 4 years of professional experience building and maintaining web applications, REST APIs and database-driven systems.
 
 I focus on writing maintainable code, solving real-world problems and continuously improving the way software is designed and delivered.
 
